@@ -12,7 +12,7 @@ Birinci ödevde kendi deponuz içinde bir depo oluşturdunuz ve bu deponun için
 |4          | 0.173     |
 |5          | 0.219     |
 
-![Grafik 1](https://drive.google.com/open?id=1E4i5Y9Go2DHcyct3lkLP9NIUgZBMrlHT)
+[Grafik 1](https://drive.google.com/open?id=1E4i5Y9Go2DHcyct3lkLP9NIUgZBMrlHT)
 Aşağıdak sorular cevaplayın:
 
 a) Defterinizde çizdiğiniz grafiğin eğimini ne buldunuz? (Defterinizde noktaları birleştirirken kesiksiz tek bir doğru ile birleştirin.  Noktalar çizdiğiniz doğruya olabildiğince yakın olsun. Çizdiğiniz doğru noktaları ortalasın! Ölçümümüzde hata olacağından bazı noktalar o doğru dışında kalacaktır. Önemli olan o noktaları yaklaşık olarak ortalayan bir doğru çizmek.) Ne dediğimi daha iyi anlamak için başka bir [videoyu](https://www.youtube.com/watch?v=s0YMDXf-2SI) seyredebilirsiniz. 
@@ -33,7 +33,7 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 **Cevap: Ben kendimi soldakine öğrenciye benzettim. **: 
 4. Deneydeki verileri elle defterinize çizin. Eğimi kaç buldunuz (Not: Eğim bulunurken asla doğru üzerinde **işaretlediğimiz noktalar**  alınmaz. Yani doğru üzerinde seçeceğimiz iki nokta, deneyde elde ettiğimiz noktalar olmaması lazım. Yoksa çizdiğimiz doğrunun bir anlamı olmaz.) Videodaki değere yakın mı?
 **Cevap: -680 buldum**: **
-![Grafik2](https://drive.google.com/open?id=1E6V_crE_vj3vsvl_-AEnfcFaqR6xkErA)
+[Grafik2](https://drive.google.com/open?id=1E6V_crE_vj3vsvl_-AEnfcFaqR6xkErA)
 5. Şimdi [bu adresteki] (https://www.rit.edu/cos/livephoto/LPVideos/projectiles/) sayfanın *en altındaki* videoya (tartılı video) gidin. Bu videoyu seyrederek 4-5 değer alınız. Aşağıdaki tabloya bu değerleri işleyiniz:
 
 |Kuvvet (N) | Uzanım (m)|
